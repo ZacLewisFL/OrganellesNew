@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6lPFg9BBWtE_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Organelles in the Cell</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Organelles_in_the_Cell_ORG">
+    <organization identifier="Organelles_in_the_Cell_ORG">
+      <title>Organelles in the Cell</title>
+      <item identifier="MACRA_2020_Overview_SCO" isvisible="true" identifierref="__6lPFg9BBWtE_course_id_RES">
+        <title>Organelles in the Cell</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6lPFg9BBWtE_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6czxr2VZunx_20_96_960x540.mp4" />
+      <file href="story_content/video_6qolSwPGh50_20_96_960x540.mp4" />
+      <file href="mobile/poster_6ZmuJZseUKe_video_6qolSwPGh50_20_96_960x540.jpg" />
+      <file href="story_content/video_5xJSljj3gd2_20_96_960x540.mp4" />
+      <file href="mobile/poster_68qmnXW7RRD_video_5xJSljj3gd2_20_96_960x540.jpg" />
+      <file href="story_content/video_61yc3c6thOl_20_96_960x540.mp4" />
+      <file href="mobile/poster_5nEE4CLceu8_video_61yc3c6thOl_20_96_960x540.jpg" />
+      <file href="mobile/6ZAqQV0bAKx_DX1098_DY1098_CX863_CY620.png" />
+      <file href="mobile/6fLe8vDys7I_DX330_DY330_CX248_CY256.png" />
+      <file href="mobile/5iB9KtT5LUF_DX420_DY420_CX330_CY168.png" />
+      <file href="mobile/6SK6H4eAVMG_DX244_DY244_CX191_CY174.png" />
+      <file href="mobile/6mS0FZlnOua_DX128_DY128_CX84_CY64.png" />
+      <file href="mobile/6dM1Bam2Mut_DX224_DY224_CX159_CY85.png" />
+      <file href="mobile/6NxDG2q0Veq_DX216_DY216_CX154_CY117.png" />
+      <file href="story_content/video_6BiLmJT5NtF_20_96_960x540.mp4" />
+      <file href="mobile/poster_5sLxvl8FJRD_video_6BiLmJT5NtF_20_96_960x540.jpg" />
+      <file href="story_content/video_61JTvipVmo8_20_96_960x540.mp4" />
+      <file href="mobile/poster_6C35eg3v7O9_video_61JTvipVmo8_20_96_960x540.jpg" />
+      <file href="story_content/video_6mvkwVV5NFq_20_96_960x540.mp4" />
+      <file href="mobile/poster_5pygxYM3TaT_video_6mvkwVV5NFq_20_96_960x540.jpg" />
+      <file href="story_content/video_6Nd3T5uAVjK_20_96_960x540.mp4" />
+      <file href="mobile/poster_6jHFJuZTdfO_video_6Nd3T5uAVjK_20_96_960x540.jpg" />
+      <file href="story_content/video_6oShrYztLwB_20_96_960x540.mp4" />
+      <file href="mobile/poster_5mXbKfOvoF8_video_6oShrYztLwB_20_96_960x540.jpg" />
+      <file href="story_content/video_6BJujMS1EfB_20_96_960x540.mp4" />
+      <file href="mobile/poster_6kBrm4lNBKj_video_6BJujMS1EfB_20_96_960x540.jpg" />
+      <file href="mobile/5xBMVLgP6Hu_DX1080_DY1080_CX849_CY849.png" />
+      <file href="mobile/5xBMVLgP6Hu_X_DX1080_DY1080_CX816_CY816.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5askq8CLijJ.jpg" />
+      <file href="mobile/Slide6cPHJuls9sw.jpg" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aRsIFz6Asb.js" />
+      <file href="html5/data/js/6YFDEf3p78k.js" />
+      <file href="html5/data/js/60daiATdu8c.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6pAlREPvTuG.js" />
+      <file href="html5/data/js/5W8crdgCid4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/6ppdvIebbrB.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
